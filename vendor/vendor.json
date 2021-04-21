@@ -82,37 +82,37 @@
 		},
 		{
 			"checksumSHA1": "lV4/k0jg1EoqKiJ370h4oASb47o=",
-			"path": "github.com/mailhog/MailHog-Server",
+			"path": "github.com/agylpradipta/MailHog-Server",
 			"revision": "50f74a1aa2991b96313144d1ac718ce4d6739dfd",
 			"revisionTime": "2017-04-16T23:29:09Z"
 		},
 		{
 			"checksumSHA1": "3mLt9lHm23gzSdVgjZQmaNxoR2Q=",
-			"path": "github.com/mailhog/MailHog-Server/api",
+			"path": "github.com/agylpradipta/MailHog-Server/tree/master/api",
 			"revision": "50f74a1aa2991b96313144d1ac718ce4d6739dfd",
 			"revisionTime": "2017-04-16T23:29:09Z"
 		},
 		{
 			"checksumSHA1": "fBFfD/YTkxKmuCE7SlEL4/im9nU=",
-			"path": "github.com/mailhog/MailHog-Server/config",
+			"path": "github.com/agylpradipta/MailHog-Server/tree/master/config",
 			"revision": "50f74a1aa2991b96313144d1ac718ce4d6739dfd",
 			"revisionTime": "2017-04-16T23:29:09Z"
 		},
 		{
 			"checksumSHA1": "P0jngUraVKUOjL+uPeTc6XPAAPs=",
-			"path": "github.com/mailhog/MailHog-Server/monkey",
+			"path": "github.com/agylpradipta/MailHog-Server/tree/master/monkey",
 			"revision": "50f74a1aa2991b96313144d1ac718ce4d6739dfd",
 			"revisionTime": "2017-04-16T23:29:09Z"
 		},
 		{
 			"checksumSHA1": "mgcmDb5LYslWuo+N7v1QU+wv3BI=",
-			"path": "github.com/mailhog/MailHog-Server/smtp",
+			"path": "github.com/agylpradipta/MailHog-Server/tree/master/smtp",
 			"revision": "50f74a1aa2991b96313144d1ac718ce4d6739dfd",
 			"revisionTime": "2017-04-16T23:29:09Z"
 		},
 		{
 			"checksumSHA1": "c+xf40wui4+o6gvZ+8NRL1oRviY=",
-			"path": "github.com/mailhog/MailHog-Server/websockets",
+			"path": "github.com/agylpradipta/MailHog-Server/tree/master/websockets",
 			"revision": "50f74a1aa2991b96313144d1ac718ce4d6739dfd",
 			"revisionTime": "2017-04-16T23:29:09Z"
 		},
